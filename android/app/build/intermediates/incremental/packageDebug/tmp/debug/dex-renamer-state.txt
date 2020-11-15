@@ -1,0 +1,4 @@
+#Sat Nov 14 19:57:56 BRT 2020
+base.0=C\:\\Users\\Kardrean\\Desktop\\curso_react\\Appnativo_react\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
